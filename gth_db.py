@@ -12,5 +12,5 @@ def create():
                  phone TEXT NOT NULL
                 age INTEGER NOT NULL
     )""")
-
+test
 con.commit()
